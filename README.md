@@ -1,6 +1,10 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Reza Hashemi Accomplishment") <p align="center"> 
 
 
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
+
 
 
 | Name | Description | Date 
