@@ -1,9 +1,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Reza Hashemi Accomplishment") <p align="center"> 
 
 
-<p align="justify">
-  Lorem ipsum
-</p>
+<p align="justify"> Test </p>
 
 
 | Name | Description | Date 
