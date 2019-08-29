@@ -1,9 +1,6 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Reza Hashemi Accomplishment") <p align="center"> 
 
 
-![good-boy](https://i.imgur.com/xtoLyW2.jpg  "Good boy on boat")
-
-$$\text{This is some centered text}$$
 
 
 | Name | Description | Date 
