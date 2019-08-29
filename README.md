@@ -11,7 +11,7 @@
 - - - 
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/6TG8JBY9THXK/">
-    <img src="IBM_Advanced_data_Science_Capstone.PNG" width="200" align="center">
+    <img src="IBM_Advanced_data_Science_Capstone.PNG" width="350" align="center">
 </a>
 
 
