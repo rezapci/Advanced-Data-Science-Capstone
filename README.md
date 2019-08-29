@@ -2,7 +2,6 @@
 
 
 
-
 | Name | Description | Date 
 | :- |-------------: | :-:
 |Reza Hashemi| IBM Coursera Advanced Data Science Capstone.  | on 28th of August 2019 |
