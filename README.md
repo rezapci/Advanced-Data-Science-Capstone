@@ -1,3 +1,9 @@
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
 | Name | Description | Date 
 | :- |-------------: | :-:
 |Reza Hashemi| IBM Coursera Advanced Data Science Capstone.  | on 28th of August 2019 |
@@ -14,13 +20,6 @@
     <img src="IBM_Advanced_data_Science_Capstone.PNG" width="350" align="center">
 </a>
 
-
-
-
-
-
-IBM_Advanced_data_Science_Capstone.PNG
-![Advanced Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/6TG8JBY9THXK)
 
 
 
