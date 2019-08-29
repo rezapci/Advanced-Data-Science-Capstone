@@ -8,7 +8,7 @@
     <img src="https://images.youracclaim.com/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced%2BData%2BScience%2BCapstone.png" width="200" align="center">
 </a>
 
-!// ![Advanced Data Science Capstone](https://images.youracclaim.com/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced%2BData%2BScience%2BCapstone.png)
+![Advanced Data Science Capstone](https://images.youracclaim.com/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced%2BData%2BScience%2BCapstone.png)
 
 
 
