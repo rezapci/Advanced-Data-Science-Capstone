@@ -12,6 +12,13 @@
     <img src="https://images.youracclaim.com/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced%2BData%2BScience%2BCapstone.png" width="300" align="center">
 </a>
 
+
+- - -
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CH82H8865K6X/">
+    <img src="IBM_Advanced Data Science.PNG" width="400" align="center">
+</a>
+
 - - - 
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/6TG8JBY9THXK/">
