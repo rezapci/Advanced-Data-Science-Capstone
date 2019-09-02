@@ -13,6 +13,10 @@
 </a>
 
 
+<a href="https://www.youracclaim.com/org/ibm/badge/advanced-data-science-specialist.1">
+    <img src="Specialization+Certificate+Emblem+-+AADS+-++Final.png" width="300" align="center">
+</a>
+
 - - -
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CH82H8865K6X/">
