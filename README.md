@@ -1,5 +1,10 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Reza Hashemi Accomplishment") <p align="center"> 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Reza Hashemi Accomplishment") 
+<p align="center"> 
 
+<h1 align="center">IBM Advanced Data Science Specialization</h1>
+<p align="center">
+Notebooks from IBM Advanced Data Science Specialization on Coursera.
+</p>
 
 
 | Name | Description | Date 
@@ -19,9 +24,7 @@
 
 - - -
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CH82H8865K6X/">
-    <img src="IBM_Advanced Data Science.PNG" width="400" align="center">
-</a>
+
 
 - - - 
 
