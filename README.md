@@ -1,7 +1,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Reza Hashemi Accomplishment") 
 <p align="center"> 
 
-<h1 align="center">IBM Advanced Data Science Specialization</h1>
+<h1 align="center">🎓 IBM Advanced Data Science Specialization</h1>
 <p align="center">
 Notebooks from IBM Advanced Data Science Specialization on Coursera.
 </p>
@@ -9,7 +9,7 @@ Notebooks from IBM Advanced Data Science Specialization on Coursera.
 
 | Name | Description | Date 
 | :- |-------------: | :-:
-|Reza Hashemi| IBM Coursera Advanced Data Science Capstone.  | on 28th of August 2019 |
+|Reza Hashemi| 🎓 IBM Coursera Advanced Data Science Capstone.  | on 28th of August 2019 |
 
 ---
 
